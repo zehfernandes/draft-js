@@ -194,7 +194,7 @@ To run the examples in the `/examples` directory, first build Draft.js locally a
 
 [3] There are known issues with mobile browsers, especially on Android ([docs](https://draftjs.org/docs/advanced-topics-issues-and-pitfalls/#mobile-not-yet-supported)).
 
-## Resources and Ecosystem
+## Resources and Ecosystem Test
 
 Check out this curated list of articles and open-sourced projects/utilities: [Awesome Draft-JS](https://github.com/nikgraf/awesome-draft-js).
 
